@@ -18,4 +18,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dimitry-prog)  
 
+https://custom-icon-badges.demolab.com/badge/-kfifa3@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
+
 ![Snake animation](https://github.com/Dimitry-prog/Dimitry-prog/blob/output/github-contribution-grid-snake.svg)
