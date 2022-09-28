@@ -2,7 +2,7 @@
 
 <p>I beginning front-end developer. I really enjoy learning JavaScript and especially React. I also enjoy Css/Scss and his tricks.</p>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Use and Learn</h2>
 <div>
  <div> <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> </div>
  <div> <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> </div>
@@ -13,6 +13,8 @@
  <div> <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </div>
  <div> <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" /> </div>
 </div>
+
+<h2> 📊 &nbsp;My GitHub History</h2>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dimitry-prog)  
 
