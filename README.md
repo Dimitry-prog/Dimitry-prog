@@ -4,7 +4,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <ul>
- <li> <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> </li>
+ <li> <div><img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> </div></li>
 </ul>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dimitry-prog)  
