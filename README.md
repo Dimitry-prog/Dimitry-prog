@@ -20,6 +20,6 @@
 
 <h2> 📊 &nbsp;My GitHub History</h2>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dimitry-prog)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dimitry-prog&theme=dracula)  
 
 
