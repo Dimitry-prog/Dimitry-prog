@@ -20,4 +20,6 @@
 
 <h2> 📊 &nbsp;My GitHub History</h2>
 
-![Snake animation](https://github.com/Dimitry-prog/Dimitry-prog/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dimitry-prog)  
+
+
