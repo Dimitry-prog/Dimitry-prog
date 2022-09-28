@@ -18,4 +18,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dimitry-prog)  
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dimitry-prog/Dimitry-prog/blob/output/github-contribution-grid-snake.svg)
