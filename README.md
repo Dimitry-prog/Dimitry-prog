@@ -25,7 +25,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://dimitry-prog.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="mailto:kfifa3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://dimitry-prog.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://dimitry-prog.github.io/-blue?style=flat&logo=google-chrome"></a>
+<a href="mailto:kfifa3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kfifa3@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
