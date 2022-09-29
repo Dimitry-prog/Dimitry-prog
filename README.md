@@ -1,6 +1,6 @@
 <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> my name's Dimitry </h1>
 
-<p>I beginning front-end developer. I really enjoy learning JavaScript and especially React. I also enjoy Css/Scss and his tricks.</p>
+<p>I'm a Junior Front-end Developer. I really enjoy learning JavaScript and especially React. I also enjoy Css/Scss and his tricks.</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Use and Learn</h2>
 <div>
