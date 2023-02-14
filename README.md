@@ -11,6 +11,8 @@
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> </span>
+ <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> </span>
+ <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </span>
  <span>  </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </span>
  <span> <img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" /> </span>
